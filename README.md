@@ -1,2 +1,2 @@
 # MethodCallInterception
-This is just a try to intercept some cool stuff in service method execution
+This is just a try to inject some cool stuff in service method execution
